@@ -1,8 +1,5 @@
 # crossWordia
 
-Here is some information about my project
+# Heading 1
 
-#This is a heading
-
-#This is a smaller heading
-
+## Heading 2
